@@ -1,5 +1,5 @@
 {
-    "name": "composite/laravel-vin",
+    "name": "riseno/laravel-vin",
     "description": "VIN (Vehicle Identification Number) decoder for Laravel applications",
     "license": "MIT",
     "autoload": {
