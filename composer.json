@@ -13,6 +13,6 @@
             "email": "btamba@composite.hu"
         }
     ],
-    "require": {}
+    "require": {},
     "minimum-stability": "dev-master",
 }
